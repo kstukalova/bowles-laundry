@@ -1,0 +1,16 @@
+.user_login_container {
+	margin: auto;
+	width: 50;
+}
+
+.header {
+	text-indent: 50px;
+}
+
+.header p {
+	text-indent: 80px;
+}
+
+td {
+	padding: 20px;
+}
